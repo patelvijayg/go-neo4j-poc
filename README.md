@@ -1,2 +1,2 @@
 # go-neo4j-poc
-golang with neo4j
+This is just poc of golang with neo4j database
